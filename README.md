@@ -30,3 +30,6 @@ The tool outputs the results to the terminal and saves them in a CSV file for fu
 1. **Run the script using Python**:
    ```bash
    python log_analysis.py [threshold] <log_file>
+---
+## Example
+<img width="980" alt="Screenshot 2024-12-07 at 7 22 41 PM" src="https://github.com/user-attachments/assets/0e2367a7-6b65-4260-93da-c215a4eb031e">
