@@ -1,5 +1,5 @@
-# VRV_security_assignment
-# Log File Analysis Tool
+# VRV Security Assignment
+## Log File Analysis Tool
 
 ## Overview
 The **Log File Analysis Tool** is a Python script that analyzes web server log files. It provides insights such as:
